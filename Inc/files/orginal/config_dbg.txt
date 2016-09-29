@@ -1,0 +1,2 @@
+PWMDutyCycle=6000
+PWMMax=10000
